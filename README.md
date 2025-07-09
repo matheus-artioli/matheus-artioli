@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://i.imgur.com/bjjddxO.jpeg" target="_blank">
-    <img src="https://i.imgur.com/bjjddxO.jpeg" alt="Banner" style="max-width: 100%;">
+  <a href="https://i.imgur.com/nra2eLk.png" target="_blank">
+    <img src="https://i.imgur.com/nra2eLk.png" alt="Banner" style="max-width: 100%;">
   </a>
 </p>
 
