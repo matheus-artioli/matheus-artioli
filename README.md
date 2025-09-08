@@ -26,10 +26,6 @@ string[] tecnologias = {
   "POO", "Git", "GitHub", "Rider"
 };
 
-string[] projetos = {
-  "🔐 Sistema de Autenticação",
-  "🌐 API de Consumo de Dados Externos"
-};
 
 var links = new {
   LinkedIn = "linkedin.com/in/matheusartioli",
